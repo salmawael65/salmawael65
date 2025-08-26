@@ -1,8 +1,7 @@
 
 
-<!-- Animated Banner -->
 <p align="center">
-  <img src="URL_OF_YOUR_GIF_HERE" alt="Eng. Salma's Profile 🤍✨" />
+  <img src="YOUR_UPLOADED_GIF_URL_HERE" alt="Eng. Salma's Profile 🤍✨" />
 </p>
 
 
