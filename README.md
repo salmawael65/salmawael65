@@ -1,8 +1,10 @@
 
 
 <p align="center">
-  <img src="YOUR_UPLOADED_GIF_URL_HERE" alt="Eng. Salma's Profile 🤍✨" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eng.Salma's%20Profile%20🤍✨
+&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
+
 
 
 
