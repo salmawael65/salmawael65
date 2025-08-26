@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/salma-wael)
+[![](https://raw.githubusercontent.com/Salma Wael/Salma Wael/master/profile.gif)](https://github.com/salma-wael)
 
 ### 👩‍💻 About Me
 I am a **Software Engineering student** passionate about programming, problem-solving, and continuous learning.  
