@@ -51,6 +51,6 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=779097,e3c8ba,a47a65,efd3c6&height=100&section=footer&text=Thanks%20for%20visiting%20🤍✨&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=779097,e3c8ba,a47a65,efd3c6&height=100&section=footer&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
