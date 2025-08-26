@@ -46,7 +46,7 @@
 <!-- Contact -->
 ### 📫 Connect with Me  
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-wael-a3b481370)  
+[![LinkedIn](https://www.linkedin.com/in/salma-wael-a3b481370)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engsalmawael65@gmail.com)  
 </p>
 
