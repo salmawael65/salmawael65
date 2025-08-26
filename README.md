@@ -1,8 +1,7 @@
-<!-- Static Color Banner -->
+<!-- Static Color Banner with Quote -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=779097&height=200&section=header&text=“The best way to predict the future is to create it.”%20🤍✨&fontSize=38&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=779097&height=200&section=header&text=“The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.”&fontSize=28&fontColor=ffffff&fontAlignY=35" />
 </p>
----
 
 <!-- About Me -->
 ### 👩‍💻 About Me
