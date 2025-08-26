@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e3c9be&height=200&section=header&text=Eng.%20Salma%20🤍🧸&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e3c9be&height=200&section=header&text=Eng.%20Salma%20🤍✨&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>  
 
 ---
@@ -45,5 +45,14 @@
 
 <!-- Contact -->
 ### 📫 Connect with Me  
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-wael-a3b481370)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engsalmawael65@gmail.com)  
+</p>
+
+---
+
+<!-- Animated Gradient Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradients&e3c9be,f5d6e0,ffe4f2,ecd9e7&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkle&fontAlignY=35" />
+</p>
