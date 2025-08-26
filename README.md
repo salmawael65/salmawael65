@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:9370db&height=200&section=header&text=Hi%20I'm%20Salma%20Wael%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:9370db&height=200&section=header&text= Eng.Salma%20Wael%20🤍✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">Software Engineering Student | Passionate Learner | Future Developer 🚀</h3>
