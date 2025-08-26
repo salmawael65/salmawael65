@@ -48,3 +48,9 @@
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-wael-a3b481370)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engsalmawael65@gmail.com)  
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=779097,e3c8ba,a47a65,efd3c6&height=100&section=footer&text=Thanks%20for%20visiting%20🤍✨&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
