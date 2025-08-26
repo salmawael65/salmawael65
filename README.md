@@ -49,7 +49,7 @@
 
 <!-- Static Color Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e3c8ba&height=100&section=footer&fontSize=28&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=779097&height=100&section=footer&fontSize=28&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 
