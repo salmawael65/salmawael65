@@ -1,6 +1,6 @@
 <!-- Static Color Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=779097&height=200&section=header&text=Eng.%20Salma%20🤍✨&fontSize=38&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=779097&height=200&section=header&text=“The best way to predict the future is to create it.”%20🤍✨&fontSize=38&fontColor=ffffff&fontAlignY=35" />
 </p>
 ---
 
