@@ -1,7 +1,8 @@
-<!-- Banner -->
+
+<!-- Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e3c9be&height=200&section=header&text=Eng.%20Salma%20🤍✨&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=779097,e3c8ba,a47a65,efd3c6&height=200&section=header&text=Eng.%20Salma%20🤍✨&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
 ---
 
