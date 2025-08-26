@@ -1,6 +1,7 @@
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eng.Salma's%20Profile%20🤍✨&fontSize=38&fontColor=9370db&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eng.Salma's%20Profile%20🤍✨&fontSize=38&fontColor=9370db&animation=glitch&fontAlignY=35&fontFamily=Courier" />
 </p>
 
 
