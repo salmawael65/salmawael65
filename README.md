@@ -5,7 +5,7 @@
 
 <!-- About Me -->
 ### 👩‍💻 About Me
-- 🎓 Software Engineering student.  
+- 🎓 Mechatronics Engineering student.  
 - 💡 Passionate about **problem-solving, programming, and creative projects**.  
 - 📚 Constantly learning and improving my **technical & soft skills**.  
 - 🌱 Currently exploring **Python, C++ and C#**.  
