@@ -42,14 +42,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/salma-wael-a3b481370" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:engsalmawael65@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=footer&text=Keep%20Coding%20&fontSize=30" />
 </p>
