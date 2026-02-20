@@ -26,12 +26,10 @@
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmawael65&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmawael65&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</div>
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salmawael65&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmawael65&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
+</p>
 <!-- Streak -->
 ### 🔥 Streak Stats
 <p align="center">
