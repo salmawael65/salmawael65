@@ -28,12 +28,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmawael65&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmawael65&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salmawael65&show_icons=true&theme=tokyonight&hide_border=true&title_color=a9b9bc&icon_color=a9b9bc&text_color=a9b9bc" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmawael65&theme=tokyonight&hide_border=true&stroke=a9b9bc&ring=a9b9bc&fire=a9b9bc&currStreakLabel=a9b9bc" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmawael65&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmawael65&layout=compact&theme=tokyonight&hide_border=true&title_color=a9b9bc&text_color=a9b9bc" height="150" />
 </p>
 
 ---
@@ -42,15 +42,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/salma-wael-a3b481370" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-a9b9bc?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:engsalmawael65@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-a9b9bc?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=footer&text=Keep%20Coding%20&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a9b9bc&height=120&section=footer&text=Keep%20Coding&fontSize=30&fontColor=ffffff" />
 </p>
