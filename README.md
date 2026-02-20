@@ -26,19 +26,21 @@
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salmawael65&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmawael65&theme=tokyonight&hide_border=true" height="150" />
 </p>
----
-<!-- Contact -->
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-wael-a3b481370)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engsalmawael65@gmail.com)  
 
-<!-- Static Color Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=779097&height=100&section=footer&fontSize=28&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmawael65&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
+---
 
+### 📫 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/salma-wael-a3b481370" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:engsalmawael65@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
